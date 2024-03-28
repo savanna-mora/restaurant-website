@@ -1,0 +1,37 @@
+.texts{
+    background-color: transparent;
+    float: left;
+    margin-right: 20px;
+    border: 2px solid burlywood;
+    padding: 10px;
+    border-radius: 15px;  
+}
+h1{
+    color: blue;
+    size-adjust: 20px;
+
+}
+h2{
+   font-style: italic; 
+   font-size: 18px;
+   color: dimgray;
+   font: 200;
+}
+/* .img{
+    margin-top: 15px;
+    margin-left: 10px;
+   
+} */
+.img2{
+    border-radius: 20px;
+    color: burlywood;
+    border: 2px dotted;
+    padding: 5px;
+   
+}
+.img img{
+    border-radius: 20px;
+    border: 2px dotted;
+    padding: 5px;
+    color: burlywood;
+}
