@@ -1,0 +1,36 @@
+.navs{
+    background-color:darkblue;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    
+}
+footer{
+    background-color: darkblue;
+}
+.meals{
+    padding-right: 75px;
+}
+li{
+    align-items:start ;
+    list-style: none;
+}
+.first ul li{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+}
+.second ul li{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+}
+.Th ul li{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+}
