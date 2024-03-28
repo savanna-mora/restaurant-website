@@ -1,0 +1,39 @@
+.button{
+    background-color: blue;
+    color: white;
+
+
+}
+.text p{
+    color: black;
+}
+.hoogies{
+    
+    background-color: black;
+}
+.burger{
+
+    
+}
+.food image{
+    height: 30px;
+    width:90px;
+}
+h1{
+    color:blue;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 300px;
+
+}
+
+
+
+    
+
+
+    
+    
+
