@@ -45,8 +45,8 @@ h3{
 }
 button{
     margin-top: 170px;
-    background-color: greenyellow;
-    color: black;
+    background-color: black;
+    color: white;
     border-radius: 30px;
     width: 10%;
     cursor: pointer;
@@ -87,7 +87,7 @@ h1{
   
   button:hover{
     background-color: darkblue;
-    color: red;
+    color: greenyellow;
 
   }
   .nav a{
