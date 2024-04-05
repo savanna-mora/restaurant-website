@@ -1,10 +1,12 @@
 .navs{
     background-color:darkblue;
     text-align: center;
-    color: white;
+    color:whitesmoke;
     display: flex;
-    justify-content: space-around;
-    
+    justify-content: space-around;  
+    /* height: 400px;
+    width: 300px; */
+    margin: auto;
 }
 footer{
     background-color: darkblue;
@@ -21,16 +23,33 @@ li{
     flex-direction: column;
     align-items: start;
     justify-content: start;
+    
 }
 .second ul li{
     display: flex;
     flex-direction: column;
     align-items: start;
     justify-content: start;
+   color: white;
 }
-.Th ul li{
+.Third ul li{
     display: flex;
     flex-direction: column;
     align-items: start;
     justify-content: start;
+    color: red;
+    
+}
+.p{
+    color: whitesmoke;
+    padding-top: 100px;
+
+margin-left: 100px;
+
+}
+.icons{
+    font-size: 5%;
+    margin-top: 100;
+    display:flex;
+    justify-content: space-around;
 }
